@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sisedit", "sisedit.csproj", "{7F56A925-FFFC-4E5D-B6A1-616FC2BD7797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F56A925-FFFC-4E5D-B6A1-616FC2BD7797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F56A925-FFFC-4E5D-B6A1-616FC2BD7797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F56A925-FFFC-4E5D-B6A1-616FC2BD7797}.Debug|x86.ActiveCfg = Debug|x86
+		{7F56A925-FFFC-4E5D-B6A1-616FC2BD7797}.Debug|x86.Build.0 = Debug|x86
+		{7F56A925-FFFC-4E5D-B6A1-616FC2BD7797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F56A925-FFFC-4E5D-B6A1-616FC2BD7797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F56A925-FFFC-4E5D-B6A1-616FC2BD7797}.Release|x86.ActiveCfg = Release|x86
+		{7F56A925-FFFC-4E5D-B6A1-616FC2BD7797}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		BuildVersion_AssemblyInfoFilename = Properties\AssemblyInfo.cs
+		BuildVersion_StartDate = 2012/12/23
+		BuildVersion_BuildVersioningStyle = None.None.DeltaBaseYear.Increment
+		BuildVersion_BuildAction = Build
+		BuildVersion_ConfigurationName = Debug
+		BuildVersion_UpdateFileVersion = True
+		BuildVersion_UpdateAssemblyVersion = True
+	EndGlobalSection
+EndGlobal
